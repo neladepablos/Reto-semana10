@@ -66,10 +66,10 @@
 
 // let numeros = [7, 21, 2, 3, 9, 6, 23, 44];
 
-// function minMax(oscar) {
+// function minMax(numeros) {
 //     
-//     let min = Math.min.apply(null, oscar);
-//     let max = Math.max.apply(null, oscar); 
+//     let min = Math.min.apply(null, numeros);
+//     let max = Math.max.apply(null, numeros); 
     
 //     return [min, max];
 // }
