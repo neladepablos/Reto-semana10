@@ -94,4 +94,42 @@
 //Devuelve una nueva matriz (única) con el mayor número de cada uno.
 //findLargestNums([[4, 2, 7, 1], [20, 70, 40, 90], [1, 2, 0]]) ➞ [7, 90, 2]
 
-let matriz = [[3,5,7], [3,1,9], [9,6,7]];
+// let matriz = [[3,5,7], [3,1,9], [9,6,7]];
+
+// function matrizUnica(matriz) {
+
+//     let max = Math.max.apply(null, matriz[0]);
+//     let max2 = Math.max.apply(null, matriz[1]);
+//     let max3 = Math.max.apply(null, matriz[2]); 
+    
+//      return [max, max2, max3];
+// }
+
+// console.log(matrizUnica(matriz));
+
+/*------------------------------------------------------------------------------------------------------------*/
+// 9. Dada una palabra, escriba una función que devuelva el primer
+// índice y el último índice de un carácter.
+
+//charIndex("hello", "l") ➞ [2, 3]
+// The first "l" has index 2, the last "l" has index 3.
+
+// charIndex("circumlocution", "c") ➞ [0, 8]
+// The first "c" has index 0, the last "c" has index 8.
+
+// let palabra = "carnaval de las flores";
+
+
+// function primUlt(palabra) {
+
+//     let primera = palabra.charAt(0);
+//     let ultima = palabra.charAt(palabra.length-1);
+
+//     return [primera, ultima];
+// }
+
+// console.log(primUlt(palabra));
+
+
+
+
