@@ -67,7 +67,7 @@
 // let numeros = [7, 21, 2, 3, 9, 6, 23, 44];
 
 // function minMax(oscar) {
-//     console.log("Oscar te amo")
+//     
 //     let min = Math.min.apply(null, oscar);
 //     let max = Math.max.apply(null, oscar); 
     
